@@ -8,7 +8,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "7179483692:AAGhhLgWlIsO4rWTP9Vfc_Dq56ddWj8el
 SESSION = os.getenv("SESSION", "BQFabecAV9n9-hFsUruLvyf5iRHK76DtoGx5OMDzRzmNtKowjms896TjfitRtiOVwpW5lyrBXRgvAib4K2ANAWLMggJs_rokxob1EAE-JTS7hcE_wnISrUzAXOwGPv0Iy3xjdOcC8rGJhlZ-8kWtVD9hFFqTFot95LGQITp0qNZ1tr2KrlsoS8-LYLNsBe0qtiUqpFXUaf23Z4xmZ0h4W0gbiksuJcZOcsHZcSruUd1R58mPCuZOynn-wqKKlAyTBOQmglwNq51eM7kbHiLVO-tnwZT4514Ow1kAZ86ENunYGXSlzLu4aisZ7iThhbqJal3QBU_4Vh6sSA9QI1gjtUchOq4RpgAAAAGiUGwDAA")
 TIME = int(os.getenv("TIME", 5))
 
-GROUPS = list(map(int, os.getenv("GROUPS", "-1 0 0 2 0 8 8 7 2 1 0 1 9").split()))
+GROUPS = list(map(int, os.getenv("GROUPS", "1 0 0 2 0 8 8 7 2 1 0 1 9").split()))
 ADMINS = list(map(int, os.getenv("ADMINS", "1527277551").split()))
 
 START_MSG = "<b>Hello {},\n\nI'm a groups messages delete bot after a specific time.\n\nWorking for my owner groups.</b>"
