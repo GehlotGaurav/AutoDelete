@@ -11,31 +11,31 @@
   "env": {
     "BOT_TOKEN": {
       "description": "Get it from @Botfather",
-      "value": ""
+      "value": "7179483692:AAGhhLgWlIsO4rWTP9Vfc_Dq56ddWj8elaM"
     },
     "API_ID": {
       "description": "Your telegram API ID, Get it from my.telegram.org",
-      "value": ""
+      "value": "22703591"
     },
     "API_HASH":{
       "description": "Your telegram API HASH, Get it from my.telegram.org",
-      "value": ""
+      "value": "c24dc1c63e09d82947dc9b143eb079fc"
     },
     "SESSION":{
       "description": "Pyrogram session generated from the link in Readme",
-      "value": ""
+      "value": "BQFabecAV9n9-hFsUruLvyf5iRHK76DtoGx5OMDzRzmNtKowjms896TjfitRtiOVwpW5lyrBXRgvAib4K2ANAWLMggJs_rokxob1EAE-JTS7hcE_wnISrUzAXOwGPv0Iy3xjdOcC8rGJhlZ-8kWtVD9hFFqTFot95LGQITp0qNZ1tr2KrlsoS8-LYLNsBe0qtiUqpFXUaf23Z4xmZ0h4W0gbiksuJcZOcsHZcSruUd1R58mPCuZOynn-wqKKlAyTBOQmglwNq51eM7kbHiLVO-tnwZT4514Ow1kAZ86ENunYGXSlzLu4aisZ7iThhbqJal3QBU_4Vh6sSA9QI1gjtUchOq4RpgAAAAGiUGwDAA"
     },
     "ADMINS":{
       "description": "ID of admins",
-      "value": ""
+      "value": "5265276618"
     },
     "GROUPS":{
       "description": "ID of the groups where the bot work (seperate by spaces)",
-      "value": ""
+      "value": "-1002169933086"
     },
     "TIME": {
       "description": "Time in seconds",
-      "value": "300"
+      "value": "10"
     }
   },
   "buildpacks": [
